@@ -8,5 +8,5 @@ setup(name='timemonitor',
       author='Andrea Zonca',
       author_email='code@andreazonca.com',
       url='http://github.com/zonca/timemonitor',
-      packages=['timemonitor'],
+      py_modules=['timemonitor', 'test_timemonitor'],
      )
